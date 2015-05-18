@@ -5,3 +5,5 @@ README.md
 /readme.html
 /license.txt
 *.md
+node_modules
+.sass-cache
