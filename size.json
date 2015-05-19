@@ -1,6 +1,46 @@
 [
-  ["300x250","in-page"],
-  ["728x90", "in-app"],
-  ["320x50", "in-app"],
-  ["320x50", "in-page"]
+  ["160x600","in-page-dads"],
+  ["300x250","in-page-dads"],
+  ["728x90", "in-page-dads"],
+
+  ["160x600","in-page-grads"],
+  ["300x250","in-page-grads"],
+  ["728x90", "in-page-grads"],
+
+  ["300x250","in-page-dads_2"],
+  ["320x50","in-page-dads_2"],
+  ["300x50", "in-page-dads_2"],
+
+  ["300x250","in-page-grads_2"],
+  ["320x50","in-page-grads_2"],
+  ["300x50", "in-page-grads_2"],
+
+  ["300x250","in-app-dads"],
+  ["320x50","in-app-dads"],
+  ["300x50", "in-app-dads"],  
+
+  ["300x250","in-app-grads"],
+  ["320x50","in-app-grads"],
+  ["300x50", "in-app-grads"],
+
+  ["300x50","expand-in-app-grads"],
+  ["320x50","expand-in-app-grads"],
+
+  ["300x50","expand-in-page-grads"],
+  ["320x50","expand-in-page-grads"],
+
+  ["300x50","expand-in-app-dads"],
+  ["320x50","expand-in-app-dads"],
+
+  ["300x50","expand-in-page-dads"],
+  ["320x50","expand-in-page-dads"],
+
+  ["300x50","expand-in-app-grads_2"],
+  ["320x50","expand-in-app-grads_2"],
+
+  ["300x50","expand-in-page-grads_2"],
+  ["320x50","expand-in-page-grads_2"],
+
+  ["320x50","expand-in-page-grads_3"],
+  ["300x250","expand-in-page-grads"]
 ]

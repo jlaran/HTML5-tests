@@ -1,0 +1,66 @@
+[
+/* --------------Statics----------------- */
+/* In Page */
+/* Dads */
+  ["160x600","in-page-dads"],
+  ["300x250","in-page-dads"],
+  ["728x90", "in-page-dads"],
+/* Grads */
+  ["160x600","in-page-grads"],
+  ["300x250","in-page-grads"],
+  ["728x90", "in-page-grads"],
+
+/* Dads2 */
+  ["300x250","in-page-dads2"],
+  ["320x50","in-page-dads2"],
+  ["300x50", "in-page-dads2"],
+  
+/* Grads2 */
+  ["300x250","in-page-grads2"],
+  ["320x50","in-page-grads2"],
+  ["300x50", "in-page-grads2"],
+
+/* In App */
+/* Dads */
+  ["300x250","in-app-dads"],
+  ["320x50","in-app-dads"],
+  ["300x50", "in-app-dads"],
+  
+/* Grads */
+  ["300x250","in-app-grads"],
+  ["320x50","in-app-grads"],
+  ["300x50", "in-app-grads"],
+
+/* --------------Expanding------------- */
+
+/* Grads */
+/* in-app */
+  ["300x50","expand-in-app-grads"],
+  ["320x50","expand-in-app-grads"],
+/* in-page */
+  ["300x50","expand-in-page-grads"],
+  ["320x50","expand-in-page-grads"],
+
+/* Dads */
+/* in-app */
+  ["300x50","expand-in-app-dads"],
+  ["320x50","expand-in-app-dads"],
+
+/* in-page */
+  ["300x50","expand-in-page-dads"],
+  ["320x50","expand-in-page-dads"],
+
+
+/* Grads */
+/* in-app */
+  ["300x50","expand-in-app-grads2"],
+  ["320x50","expand-in-app-grads2"],
+
+/* in-page */
+  ["300x50","expand-in-page-grads2"],
+  ["320x50","expand-in-page-grads2"],
+
+/* in-page */
+  ["320x50","expand-in-page-grads3"],
+  ["300x250","expand-in-page-grads"]
+]
